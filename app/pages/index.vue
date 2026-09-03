@@ -3,6 +3,6 @@
     <IndexHero />
     <Footer />
 </template>
-<style>
+<style lang="scss">
     @use "../../assets/scss/index.scss";
 </style>
